@@ -1,15 +1,6 @@
-* {
-    margin: 0;
-    padding: 0;
-}
-
-.text-block
-{background-color: blue;
-    display: block;
-    width: 232px;
-    height: 100px;
-}
-
-.text-block :hover{
-  background-color: brown;  
+.header {
+  width: 100;
+  height: 20;
+  color: aquamarine;
+  background-color: bisque;
 }
